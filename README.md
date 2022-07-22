@@ -17,6 +17,6 @@ We will be using Ruby with Mechanize and Nokogiri packages.
 
 ### Task
 
-Try ruby and create a word occurence tool for webpages
+Try and learn ruby by creating a word occurence tool for webpages
 
 
