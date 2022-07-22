@@ -9,7 +9,7 @@ Try it in repl [here](https://replit.com/@DaveVerano/WordOccurencesScrapper)
 
 ### Intro
 
-The goal of this task is to scrape data from a website like https://cse.osu.edu/news(https://cse.osu.edu/news) and count the occurences of words in the page.
+The goal of this task is to scrape data from a website like [https://cse.osu.edu/news](https://cse.osu.edu/news) and count the occurences of words in the page.
 
 ### Tools
 
