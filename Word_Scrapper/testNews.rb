@@ -1,7 +1,7 @@
 require "minitest/autorun"
-require './news.rb'
+require_relative 'news'
  
-class TestNews < MiniTest::Test
+class TestNews < Minitest::Test
  
   def setup
     @news = News.new("9/21/14","Article Sample","texttextext","https://examplewebsite.com")
